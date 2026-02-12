@@ -1,6 +1,3 @@
- AI-Invoice-Automation-Pipeline
-AI-driven financial pipeline that automates bulk extraction of 100+ invoice records from multi-page PDFs into Notion using Google Gemini and Make.com.
-
 AI-Driven Financial Pipeline: 100+ Records in 30 Seconds
 The Mission: Productivity Over Manual Labor
 I built this project to solve a common business headache: manually typing data from hundreds of invoices into a database. This automated Intelligent Document Processing (IDP) pipeline extracts data from a 7-page "messy" PDF and migrates it directly into a structured Notion Database in seconds.

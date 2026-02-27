@@ -25,7 +25,7 @@ Visual Proof of Success
 This screenshot confirms the workflow successfully processed 100 records in a single execution within free-tier constraints. All modules show "Green" for 100% data throughput.
 
 3. The Final Notion Database
-![Notion Result 1](Fixed%20data%20in%20notion%202.png) ![Notion Result 2](Fixed%20data%20in%20notion.png)
+![Notion Result 1](Fixe%20data%20in%20notion%202.png)
 
 From unstructured, multi-page PDFs to a clean, searchable, and organized Notion database.
 
